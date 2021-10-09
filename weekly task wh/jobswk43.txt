@@ -1,0 +1,71 @@
+jiaxin@vision-one.com.sg
+11, Kian Teck Road, Singapore 628768
+phone
+Call us
+
++(65) 6264 8334
+
+
+Senior Principal Engineer, Software
+Save
+V
+VISION ONE PTE. LTD.
+Singapore
+Apply on LinkedIn
+Apply on Joblum Singapore
+2 days ago
+Full–time
+Responsibilities
+• Supports new RFQ and direct customer interaction (if assigned);
+• Track project progress and update customer accordingly;
+• Ensure adherence to delivery schedule and product quality;
+• Write documentation for each stage of development and commercialization lifecycle;
+• Develop software – Framework, apps and embedded;
+• Size and source electronics components;
+• Drive internal and external reviews with team members and customers;
+• Drive all acceptance tests;
+• Support after-sales maintenance;
+• Other work as assigned.
+
+Requirements
+• Experienced in designing and coding framework/middleware in OPC-UA standards and translation to embedded C command and control systems;
+• Main working languages C#, C++, embedded C under OPC-UA standards and architecture;
+• Java only when using JSON APIs;
+• Main I/O architecture RESTful API, SOAP or JSON;
+• Creation of component services called by Main Program under REST methodologies or archiving in a database;
+• Self-starter, driven hands-on and able to work under pressure;
+• Good communication and cheerful personality;
+• Positive working attitude and team player;
+• Min 10 years experience in software development for command and control;
+• Min BSEE or equivalent from a recognized university;
+• Bachelor’s degree in Computer Science will also be considered if the candidate has experience in design and programming in embedded environment;
+• Cheerful personality with a strong willingness to learn.
+• Singaporeans and PR only
+Report this listing
+VISION ONE PTE. LTD.
+More jobs at VISION ONE PTE. LTD.
+See web results for VISION ONE PTE. LTD.
+
+
+/////
+
+Job descriptionIn your new role you will:
+• Be a member of the Systems team that delivers embedded reference solutions using Infineon semiconductors, microcontrollers• Main focus on applications of Motor Control and Power Conversion, optimization of control by application of AI/ML for performant systems.
+• Drive the AI approach, bring up the AI development pipeline and the application bench
+• Involve in power electronics circuit simulations for new concept development & validation.
+• Conduct experiments and design-in the proof-of-concepts
+
+• Involve in the selected design-in project at customer; understand target applications and pain points to address
+• Collaborate with Power Electronics and Application experts at the global team Your ProfileYou are best equipped for this task if you have:
+
+• University degree in Bachelor / Masters / PhD in Electrical / Control Engineering
+• Minimum 5 years of relevant experience and strong interest in electrical systems such as motor control & power converters.
+• Hands-on experience in end-to-end AI/NN application development, setting up the AI workspace and training pipeline, and the NN deployment.
+
+• Knowledge in 3 phase inverter circuit and its key components working theory and mechanism, such as MOSFETs, gate driver, and controller.• Fundamental understanding of power electronics switching devices and concepts of digital control• Experience in the usage of simulation tools such as MATLAB, SIMetrix, highly preferred.
+
+• Good understanding of electronics / electrical circuits can debug the system• Background in Microcontroller and peripherals such as Analog-Digital converter, pulse width modulators know-how preferred• Knowledge of embedded C programming is a great advantage• High interest to work in an R&D environment.
+
+• A self-motivator, willing to learn and independently explore, leverage with experts across domains, and innovate for new solutions
+• (on covid-safe) Able to travel occasionally when required
+
